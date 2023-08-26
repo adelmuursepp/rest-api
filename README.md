@@ -1,3 +1,8 @@
+### REST API
+Technologies used 
+- Django REST
+- Heroku
+
 ### Setting Up the Environment
 
 If possible, please have a look at this course: (Udemy Django REST course)[https://www.udemy.com/course/django-python-advanced/learn/lecture/32238716#overview]
@@ -49,9 +54,4 @@ run `python manage.py test`
 
 `pip list --format=freeze > requirements.txt`
 
-### TO DO
 
-Make Django Brand view /brands/5 -> /brands/inditex.com
-so that it would be possible to query API based on the cleaned URL
-
-Insert 200 brands into API seed file
